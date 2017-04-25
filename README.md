@@ -9,11 +9,12 @@ Download the zip file, unzip it, and then run it either on a personal webserver 
 ## Built With
 
 * [Bootstrap](http://getbootstrap.com) - Twitter Bootstrap's docs. Check these out to learn how to do whatever you need.
+* PHP
 
 
-## Authors
+## Author(s)
 
-* **Alex Ray** - *Initial work* - [jalexray](https://github.com/jalexray)
+* **Alex Ray** - [jalexray](https://github.com/jalexray)
 
 ## License
 
