@@ -18,7 +18,7 @@ Download the zip file, unzip it, and then run it either on a personal webserver 
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
