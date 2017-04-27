@@ -1,4 +1,4 @@
-# Project Title
+# PHP/Bootstrap Starter Kit
 
 This is a .zip file for people to start working with Twitter's Bootstrap and PHP. I set it up to make it easy for beginners to set up their first website. It contains default Bootstrap resources, a header file, and an index file.
 
